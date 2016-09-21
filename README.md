@@ -1,5 +1,5 @@
 # status-pages
-List of system status pages
+List of system status pages (Missing someone? Make a PR!)
 
 - http://status.stripe.com
 - http://status.37signals.com
